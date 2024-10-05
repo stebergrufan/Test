@@ -9,6 +9,7 @@ public class Anhaenger {
     
     private double eigengewicht;
     private double ladung;
+    private String test;
     
     //Konstruktoren
     public Anhaenger() {
